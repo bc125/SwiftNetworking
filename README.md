@@ -8,5 +8,3 @@ as the base that is written using closure expressions.
 
 I have now added a post to nsscreencast web page mentioning this repo to get
 their comments
-
-
